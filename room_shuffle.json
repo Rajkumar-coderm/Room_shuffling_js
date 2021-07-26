@@ -1,0 +1,317 @@
+{
+    "room1": {
+        "students": [],
+        "shuffled_students": [
+            {
+                "name": "Shubhash Ajmera",
+                "bed_no": 1,
+                "bed_position": "upside_bed"
+            },
+            {
+                "name": "Dipesh",
+                "bed_no": 2,
+                "bed_position": "downside_bed"
+            },
+            {
+                "name": "Roshan lale",
+                "bed_no": 3,
+                "bed_position": "upside_bed"
+            },
+            {
+                "name": "empty",
+                "bed_no": 4,
+                "bed_position": "downside_bed"
+            },
+            {
+                "name": "empty",
+                "bed_no": 5,
+                "bed_position": "upside_bed"
+            },
+            {
+                "name": "Vickey",
+                "bed_no": 6,
+                "bed_position": "downside_bed"
+            },
+            {
+                "name": "Satpal",
+                "bed_no": 7,
+                "bed_position": "upside_bed"
+            },
+            {
+                "name": "Ranjan",
+                "bed_no": 8,
+                "bed_position": "downside_bed"
+            },
+            {
+                "name": "Amit yadav",
+                "bed_no": 9,
+                "bed_position": "upside_bed"
+            },
+            {
+                "name": "anmol",
+                "bed_no": 10,
+                "bed_position": "downside_bed"
+            }
+        ]
+    },
+    "room3": {
+        "students": [],
+        "shuffled_students": [
+            {
+                "name": "Shubhadip",
+                "bed_no": 53,
+                "bed_position": "upside_bed"
+            },
+            {
+                "name": "Vikash Kumar",
+                "bed_no": 54,
+                "bed_position": "downside_bed"
+            },
+            {
+                "name": "Rahul Saryam",
+                "bed_no": 55,
+                "bed_position": "upside_bed"
+            },
+            {
+                "name": "Pawan",
+                "bed_no": 56,
+                "bed_position": "downside_bed"
+            }
+        ]
+    },
+    "room6": {
+        "students": [],
+        "shuffled_students": [
+            {
+                "name": "empty",
+                "bed_no": 11,
+                "bed_position": "upside_bed"
+            },
+            {
+                "name": "kaja baig",
+                "bed_no": 12,
+                "bed_position": "downside_bed"
+            },
+            {
+                "name": "Prathmesh",
+                "bed_no": 13,
+                "bed_position": "upside_bed"
+            },
+            {
+                "name": "suraj sah",
+                "bed_no": 14,
+                "bed_position": "downside_bed"
+            },
+            {
+                "name": "Hemant",
+                "bed_no": 15,
+                "bed_position": "upside_bed"
+            },
+            {
+                "name": "Shubham ramteke",
+                "bed_no": 16,
+                "bed_position": "downside_bed"
+            },
+            {
+                "name": "Rajkumar",
+                "bed_no": 17,
+                "bed_position": "upside_bed"
+            },
+            {
+                "name": "Satyam Shukla",
+                "bed_no": 18,
+                "bed_position": "downside_bed"
+            },
+            {
+                "name": "Shubham kulkarni",
+                "bed_no": 19,
+                "bed_position": "upside_bed"
+            },
+            {
+                "name": "empty",
+                "bed_no": 20,
+                "bed_position": "downside_bed"
+            }
+        ]
+    },
+    "room7": {
+        "students": [],
+        "shuffled_students": [
+            {
+                "name": "Akshay Pandey",
+                "bed_no": 21,
+                "bed_position": "upside_bed"
+            },
+            {
+                "name": "Shabid",
+                "bed_no": 22,
+                "bed_position": "downside_bed"
+            },
+            {
+                "name": "Amol",
+                "bed_no": 23,
+                "bed_position": "upside_bed"
+            },
+            {
+                "name": "Vikash Sharma",
+                "bed_no": 24,
+                "bed_position": "downside_bed"
+            },
+            {
+                "name": "Nikhil malviya",
+                "bed_no": 25,
+                "bed_position": "upside_bed"
+            },
+            {
+                "name": "Rajesh",
+                "bed_no": 26,
+                "bed_position": "downside_bed"
+            },
+            {
+                "name": "Nasir",
+                "bed_no": 27,
+                "bed_position": "upside_bed"
+            },
+            {
+                "name": "Umesh",
+                "bed_no": 28,
+                "bed_position": "downside_bed"
+            }
+        ]
+    },
+    "room8": {
+        "students": [],
+        "shuffled_students": [
+            {
+                "name": "empty",
+                "bed_no": 29,
+                "bed_position": "upside_bed"
+            },
+            {
+                "name": "Manoj kumar",
+                "bed_no": 30,
+                "bed_position": "downside_bed"
+            },
+            {
+                "name": "empty",
+                "bed_no": 31,
+                "bed_position": "upside_bed"
+            },
+            {
+                "name": "Tushar",
+                "bed_no": 32,
+                "bed_position": "downside_bed"
+            },
+            {
+                "name": "Vipin",
+                "bed_no": 33,
+                "bed_position": "upside_bed"
+            },
+            {
+                "name": "Praveen",
+                "bed_no": 34,
+                "bed_position": "downside_bed"
+            }
+        ]
+    },
+    "room10": {
+        "students": [],
+        "shuffled_students": [
+            {
+                "name": "empty",
+                "bed_no": 35,
+                "bed_position": "upside_bed"
+            },
+            {
+                "name": "Akshit Bhatt",
+                "bed_no": 36,
+                "bed_position": "downside_bed"
+            },
+            {
+                "name": "Arif",
+                "bed_no": 37,
+                "bed_position": "upside_bed"
+            },
+            {
+                "name": "Siddik",
+                "bed_no": 38,
+                "bed_position": "downside_bed"
+            },
+            {
+                "name": "Saikiran",
+                "bed_no": 39,
+                "bed_position": "upside_bed"
+            },
+            {
+                "name": "Vishal",
+                "bed_no": 40,
+                "bed_position": "downside_bed"
+            },
+            {
+                "name": "surya sen",
+                "bed_no": 41,
+                "bed_position": "upside_bed"
+            },
+            {
+                "name": "Navid",
+                "bed_no": 42,
+                "bed_position": "downside_bed"
+            }
+        ]
+    },
+    "room12": {
+        "students": [],
+        "shuffled_students": [
+            {
+                "name": "empty",
+                "bed_no": 43,
+                "bed_position": "upside_bed"
+            },
+            {
+                "name": "Riyaz",
+                "bed_no": 44,
+                "bed_position": "downside_bed"
+            },
+            {
+                "name": "Satyam Kushwahaha",
+                "bed_no": 45,
+                "bed_position": "upside_bed"
+            },
+            {
+                "name": "Parmeswar",
+                "bed_no": 46,
+                "bed_position": "downside_bed"
+            },
+            {
+                "name": "pradeep",
+                "bed_no": 47,
+                "bed_position": "upside_bed"
+            },
+            {
+                "name": "Priyanshu",
+                "bed_no": 48,
+                "bed_position": "downside_bed"
+            },
+            {
+                "name": "Amarpal",
+                "bed_no": 49,
+                "bed_position": "upside_bed"
+            },
+            {
+                "name": "Suraj Kumar",
+                "bed_no": 50,
+                "bed_position": "downside_bed"
+            },
+            {
+                "name": "empty",
+                "bed_no": 51,
+                "bed_position": "upside_bed"
+            },
+            {
+                "name": "Bhupendra",
+                "bed_no": 52,
+                "bed_position": "downside_bed"
+            }
+        ]
+    }
+}
